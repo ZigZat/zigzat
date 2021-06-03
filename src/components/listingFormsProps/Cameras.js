@@ -1,12 +1,11 @@
 import React from 'react'
 
-
-function ContactUs() {
+function Cameras() {
     return (
         <div>
-            Contact Us
+            <h1>Cameras</h1>
         </div>
     )
 }
 
-export default ContactUs
+export default Cameras

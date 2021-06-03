@@ -1,0 +1,44 @@
+.listing__title{
+    font-size: xx-large;
+    margin-top: 5px;
+}
+
+.select__catagory{
+    background-color: #ffffff;
+    color: #FF5E00;
+    padding: 5px;
+    border: 1px solid #FF5E00;
+}
+
+.sub__catagory{
+    background-color: #ffffff;
+    color: #FF5E00;
+    padding: 5px;
+    border: 1px solid #FF5E00;
+}
+
+.form__button{
+    padding: 21px;
+    width: 210px;
+    color: white;
+    background-color: #FF5E00;
+    border: none;
+    margin-left: 5px;
+    margin-top: 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.form__button:hover{
+    background: rgb(255, 255, 255);
+    color: #FF5E00;
+    border: 1px solid #FF5E00;
+    transform: scale(1.10);
+  transition:450ms;
+}
+
+#list__icons{
+    margin-left: 7px;
+}  

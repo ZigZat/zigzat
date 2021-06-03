@@ -18,7 +18,7 @@
 }
 
 .navbar-logo{
-    width: 260px;
+    width: 210px;
     margin-right: -100px;
 }
 
@@ -99,7 +99,7 @@
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 1;
-        width: 65%;
+        width: 80%;
       }
 
       .nav-links {
@@ -143,8 +143,9 @@
       }
     
       .nav-links-mobile:hover {
-        background: rgb(0, 0, 0);
-        color: #ffffff;
+        background: rgb(255, 255, 255);
+        color: #FF5E00;
+        border: 1px solid #FF5E00;
         transform: scale(1.10);
       transition:450ms;
       }

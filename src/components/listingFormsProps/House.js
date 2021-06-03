@@ -1,12 +1,11 @@
 import React from 'react'
 
-
-function ContactUs() {
+function House() {
     return (
         <div>
-            Contact Us
+            <h1>House</h1>
         </div>
     )
 }
 
-export default ContactUs
+export default House

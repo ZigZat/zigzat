@@ -18,7 +18,7 @@ function Header() {
         <nav className="navbar">
 
        <Link to='/' onClick={closeMobileMenu}>
-          <img className='navbar-logo' src={logo}></img>
+          <img className='navbar-logo' src={logo} alt='logo'></img>
         </Link>
 
         <div className='menu-icon' onClick={handleClick}>
